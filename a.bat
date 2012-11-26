@@ -7,3 +7,4 @@ echo 6 >6.txt
 echo 7 >7.txt
 echo 8 >8.txt
 echo 9 >9.txt
+echo niceguy >n.txt
